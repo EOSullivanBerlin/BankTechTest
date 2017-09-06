@@ -1,9 +1,9 @@
 # Bank Tech Test
 
 ### About
-Tech test to practice OOD and TDD.
+Tech test to practice OOD, TDD and tech tests in week 10 of MA.
 
-Clone the repo. Then:
+Clone the repo. Then in the Javascript console:
 
 ```Javascript Console
 
